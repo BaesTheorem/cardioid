@@ -62,3 +62,7 @@ follows along. `--ink` is the one that decides whether the image reads at all:
 push the chord count and brightness too high and every channel clips to white,
 turning the whole web into flat milk. Fewer, brighter threads is what lets the
 hues show.
+
+## License
+
+MIT. See [LICENSE](LICENSE).
